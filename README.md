@@ -2,7 +2,7 @@
 
 ## Description
 
-Automatically convert your staj report to Latex.
+Automatically convert your staj report to Latex, if you are a Bilkent student.
 
 ## Usage
 
