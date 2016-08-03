@@ -11,3 +11,4 @@ Automatically convert your staj report to Latex, if you are a Bilkent student.
 ## Updates
 
 * 02/08/16: Latex template added: csx99.tex
+* 03/08/16: Added example configuration file in JSON format.
