@@ -5,8 +5,11 @@
 Automatically convert your staj report to Latex, if you are a Bilkent student.
 
 ## Usage
-
-	Not yet.
+	
+	My sincere advice is to get this template and edit it yourself and compile on sharelatex.com,
+	Creating all text files and feeding it to the script sounds like an overkill,
+	A web application could be less of an overkill maybe, but sharelatex.com is gr8 y'all. 
+	Go on use the template "csx99.text" there.
 
 ## Updates
 
