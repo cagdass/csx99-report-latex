@@ -10,6 +10,10 @@
 \usepackage{mathtools}
 \usepackage{rotating}
 \usepackage{tikz}
+\usepackage{enumitem,amssymb}
+
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
 
 \setlength{\droptitle}{-10em} % We don't want to waste half the page.
 
@@ -244,10 +248,6 @@ Content.
 
 Content. \cite{another}
 
-\section{References}
-
-Content.
-
 \begin{thebibliography}{99}
 
 \bibitem{something} Some citation.
@@ -259,5 +259,25 @@ Content.
 \section{Appendix}
 
 Content.
+
+\newpage
+
+\begin{large}
+\begin{center}
+\textbf{Self-Checklist for Your Report}
+\end{center}
+\end{large}
+
+\begin{todolist}
+\item Did you provide detailed information about the work you did?
+\item Is supervisor information included?
+\item Did you use the Report Template to prepare your report, so that it has a cover page, the 8 major sections and 13 subsections specified in the Table of Contents, and uses the  required section names?
+\item Did you follow the style guidelines?
+\item Does you report look professionally written?
+\item Does your report include all necessary References, and proper citations to them in the body?
+\item Did you remove all explanations from the Report Template, which are marked with yellow color? Did you modify all text marked with green according to your case? 
+\end{todolist}
+
+Signature: \hrulefill
 
 \end{document}
